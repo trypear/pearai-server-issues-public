@@ -1,2 +1,2 @@
 # pearai-server-issues-public
-Repository dedicated for issues only for PearAI server
+Repository dedicated to create issues for PearAI server.
